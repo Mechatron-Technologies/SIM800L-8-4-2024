@@ -2,6 +2,8 @@
 
 Este repositorio contiene un código en Arduino diseñado para comunicarse con un sensor BMP280 para medir temperatura, presión y altitud. Posteriormente, los datos obtenidos se envían a un número de teléfono específico a través de mensajes de texto utilizando un módulo SIM800L.
 
+![Circuito final](Circuito_final.jpg)
+
 ## Requisitos
 - Placa Arduino compatible
 - Sensor BMP280
